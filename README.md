@@ -1,5 +1,7 @@
 # UC Planner JS SDK
 
+![david](https://david-dm.org/ACM-Planner/planner-js-sdk.svg)
+
 Universal npm module to interact with [ACM-Planner/main-api](https://github.com/ACM-Planner/main-api).
 
 ## Install
